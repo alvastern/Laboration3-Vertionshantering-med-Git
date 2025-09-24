@@ -4,4 +4,4 @@ I denna uppgift ska jag visa på att jag besitter en förståelse för Git, Gith
 ## Hur har jag gjort uppgiften?
 1. Gått in på mitt befintliga Github-konto
 2. Skapat en tom repository
-3. Skapat och fyllt i en README
+3. Skapat en README.md
